@@ -29,7 +29,7 @@
     "mcamara/laravel-localization": "~1.6",
     "maatwebsite/laravel-sidebar": "~2.1",
     "yajra/laravel-datatables-oracle": "~9.0",
-    "tightenco/ziggy": "~0.4"
+    "tightenco/ziggy": "~1.0"
   },
   "require-dev": {
     "phpunit/phpunit": "~6.0",
